@@ -1,0 +1,11 @@
+exp/catboost_info
+exp/*
+! exp_104.ipynb
+
+train_data.csv
+
+test_data.csv
+
+submission.csv
+
+game_info.csv
